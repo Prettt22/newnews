@@ -10,9 +10,9 @@
 <body>
 <header class="container">
   <nav>
-    <a href="index.html" class="logo"><span>New</span><span>News</span></a>
+    <a href="/" class="logo"><span>New</span><span>News</span></a>
     <nav id="nav" class="lkh">
-      <a href="index.html" class="item">Beranda</a>
+      <a href="/" class="item">Beranda</a>
       <a href="#" class="item">Tentang</a>
       <a href="#" class="item">Kontak</a>
     </nav>
