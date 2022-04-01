@@ -55,7 +55,7 @@
       <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti!</li>
       <li>Lorem ipsum dolor sit amet consectetur adipisicing.</li>
     </ol>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita sit tenetur vitae! Nostrum aperiam earum, obcaecati quam eius adipisci fugit reprehenderit quisquam doloremque laboriosam alias possimus debitis. Ratione consectetur totam quisquam nam cumque perferendis! Excepturi ad quos eum voluptatem sed soluta.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita sit tenetur vitae! Nostrum aperiam earum, obcaecati quam eius adipisci fugit reprehenderit quisquam doloremque laboriosam alias possimus debitis. Ratione consectetur totam quisquam nam cumque perferendis! Excepturi ad quos eum voluptatem sed solutsa.
     <br><br>
     Dapatkan update berita pilihan dan breaking news setiap hari dari NewNews.com. Mari bergabung di Grup Telegram "NewNews.com News Update" karena ada banyak berita menarik lainnya.
     <br><br>
